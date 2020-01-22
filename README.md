@@ -1,2 +1,3 @@
 # hello-world
-Mi primer github
+# Mi primer github
+print("Hello world")
